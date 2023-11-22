@@ -1,0 +1,8 @@
+D:\jaya_tryout\nilai\bin\Debug\nilai.exe.config
+D:\jaya_tryout\nilai\bin\Debug\nilai.exe
+D:\jaya_tryout\nilai\bin\Debug\nilai.pdb
+D:\jaya_tryout\nilai\obj\Debug\nilai.csproj.AssemblyReference.cache
+D:\jaya_tryout\nilai\obj\Debug\nilai.csproj.SuggestedBindingRedirects.cache
+D:\jaya_tryout\nilai\obj\Debug\nilai.csproj.CoreCompileInputs.cache
+D:\jaya_tryout\nilai\obj\Debug\nilai.exe
+D:\jaya_tryout\nilai\obj\Debug\nilai.pdb
